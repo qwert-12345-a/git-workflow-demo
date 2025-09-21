@@ -1,11 +1,5 @@
-# Git Workflow Demo
-冲突测试
-A project to demonstrate Git collaboration workflow.
+# git-workflow-demo
+Git工作流实战​
 
-## Features
-
-*   Basic Calculator (New
-    - Addition
-    - Subtraction
-    - Multiplication
-    - Division
+本地功能分支创建冲突
+采用本地功能分支
